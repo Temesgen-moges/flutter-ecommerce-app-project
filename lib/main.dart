@@ -24,11 +24,11 @@ class _MyHomePageState extends State<MyHomePage> {
   final List<Item> _items = [
           
           
-                  Item(      title: 'ABEBE',     imageUrl: 'https://via.placeholder.com/150',      price: 10.0,    ),
-                  Item(      title: 'BESO',      imageUrl: 'https://via.placeholder.com/150',      price: 20.0,    ), 
-                  Item(      title: 'BELA',      imageUrl: 'https://via.placeholder.com/150',      price: 30.0,    ),    
-                  Item(      title: 'SIBELA',    imageUrl: 'https://via.placeholder.com/150',      price: 40.0,    ),    
-                  Item(      title: 'ANEKEW',    imageUrl: 'https://via.placeholder.com/150',      price: 50.0,    ),  
+                  Item(      title: 'hat',     imageUrl: 'https://via.placeholder.com/150',      price: 10.0,    ),
+                  Item(      title: 'T-shirt',      imageUrl: 'https://via.placeholder.com/150',      price: 20.0,    ), 
+                  Item(      title: 'Shoes',      imageUrl: 'https://via.placeholder.com/150',      price: 30.0,    ),    
+                  Item(      title: 'jewelry',    imageUrl: 'https://via.placeholder.com/150',      price: 40.0,    ),    
+                  Item(      title: 'drass',    imageUrl: 'https://via.placeholder.com/150',      price: 50.0,    ),  
                   ];
 
   final TextEditingController _searchController = TextEditingController();
